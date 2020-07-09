@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, Hackers 😅
 
 <!--
 **ajdumanhug/ajdumanhug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I break stuff to secure stuff (legally). I love coffee and beer. I'm a newbie cybersecurity guy who is currently working at Secuna and member of a professional cybersecurity group, hackstreetboys.
