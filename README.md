@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I break stuff to secure stuff (legally). I love coffee and beer. I'm a newbie cybersecurity guy who is currently working at Secuna and member of a professional cybersecurity group, hackstreetboys.
 
-![banner](https://coverfiles.alphacoders.com/493/49373.jpg)
+![banner](https://i.pinimg.com/originals/fc/5a/20/fc5a2025b338cc8da83f50a15a1052b9.gif)
